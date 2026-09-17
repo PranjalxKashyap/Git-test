@@ -1,3 +1,3 @@
 ££ £Git Testing
 
-- Testing local to gity hub connectivity
+- Testing local to git hub connectivity
